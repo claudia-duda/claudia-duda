@@ -18,8 +18,8 @@ I'm currently learning how to build applications based on their context.
 
 <div>         
   <a href="https://github.com/claudia-duda">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-duda&layout=compact&langs_count=7&theme=dark"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=claudia-duda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-duda&layout=compact&langs_count=7&theme=dracula"/>
+     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=claudia-duda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 </details>
